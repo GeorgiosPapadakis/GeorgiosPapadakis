@@ -1,6 +1,6 @@
 # Georgios Papadakis
 
-### Full Stack Developer - Python Backend Focused Developer & AI Engineer
+### Full Stack Developer | Backend Engineering | AI Engineering
 ### Applied Mathematician
 ### Geospatial Systems, Robotics & Autonomous Systems Enthusiast 
 
@@ -18,12 +18,12 @@ Once upon in time, Morpheus gave me his famous 2 pills dilemma:
 - Become an Applied Mathematician and focus on AI research
 - Become a Software Engineer with a strong passion for backend systems and software architecture
 
-The choice was very difficult, so I took both pills...
+The choice was very difficult, so I took both pills.
 
 Because of that, now I live 2 - 2.5 lifes:
 
 - In the day I am a software developer focused on building practical, large-scale systems that connect backend engineering, AI/ML workflows and autonomous systems.
-- In the afternoon I am a Mathimatician that is tutoring and gives all his knowledge to children that really want it.
+- In the afternoon I teach mathematics and help students build real understanding instead of memorizing formulas.
 - In the rest of the day I keep exploring AI research, software architecture, and emerging engineering concepts.
 
 My work is currently centered around:
@@ -43,7 +43,7 @@ My work is currently centered around:
 | --- | --- |
 | Backend Engineering | Python, Django, Django REST Framework, FastAPI, REST APIs, authentication, authorization, data modeling, service architecture |
 | Frontend Development | React, TypeScript, dashboards, user interfaces, web applications |
-| Databases | PostgreSQL, Vector Bases, data modeling |
+| Databases | PostgreSQL, SQL, vector databases, data modeling |
 | AI & Machine Learning | PyTorch, TensorFlow, computer vision, segmentation models, YOLO experimentation, model training pipelines, evaluation metrics |
 | Geospatial Systems | QGIS, shapefiles, GeoJSON, raster/vector workflows, spatial data validation, environmental analytics |
 | Robotics & Autonomous Systems | ROS 2, NAV2, MAVLink, ArduPilot, Mission Planner, waypoint navigation, telemetry pipelines |
@@ -83,7 +83,7 @@ My main principles are:
 
 --- 
 
-### Current Learning Path
+## Current Learning Path
 
 I am currently improving my knowledge in:
 
@@ -96,7 +96,7 @@ I am currently improving my knowledge in:
 
 --- 
 
-### Personal Philosophy
+## Personal Philosophy
 
 Mathematics taught me how to think.
 
