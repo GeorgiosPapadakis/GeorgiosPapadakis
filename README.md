@@ -4,18 +4,27 @@
 ### Applied Mathematician
 ### Geospatial Systems, Robotics & Autonomous Systems Enthusiast 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ## Personal Summary
 
 Once upon in time, Morpheus gave me his famous 2 pills dilemma:
-- Be an Applied Mathimatitian and focus on AI study
-- Be a Software Engineer with a big passion in Backend Solutions and Systems Architectures
+
+- Become an Applied Mathematician and focus on AI research
+- Become a Software Engineer with a strong passion for backend systems and software architecture
 
 The choice was very difficult, so I took both pills...
 
 Because of that, now I live 2 - 2.5 lifes:
+
 - In the day I am a software developer focused on building practical, large-scale systems that connect backend engineering, AI/ML workflows and autonomous systems.
 - In the afternoon I am a Mathimatician that is tutoring and gives all his knowledge to children that really want it.
-- In the rest of the day I keep in touch with the latest AI research.
+- In the rest of the day I keep exploring AI research, software architecture, and emerging engineering concepts.
 
 My work is currently centered around:
 
@@ -30,33 +39,16 @@ My work is currently centered around:
 
 ## Technical Focus
 
-### Backend & APIs
-
-Python, Django, Django REST Framework, FastAPI, PostgreSQL, REST APIs, authentication, role-based access, data modeling,service architecture, and backend workflows.
-
-### Frontend
-
-React, TypeScript, dashboards, user interfaces, and web applications that connect users with complex backend systems..
-
-### AI & Machine Learning
-
-PyTorch, Tensorflow, computer vision, segmentation models, YOLO-based experimentation, model training pipelines, evaluation metrics, and AI research exploration.
-
-### GIS & Geospatial Engineering
-
-QGIS, shapefiles, GeoJSON, raster/vector workflows, spatial data validation, urban forest and environmental analytics.
-
-### Robotics & Autonomous Systems
-
-ROS 2, NAV2, MAVLink, ArduPilot, Mission Planner, waypoint navigation, telemetry pipelines, and autonomous system architecture.
-
-### DevOps & Tooling
-
-Git, GitHub, SSH setup, WSL, Linux, Windows development environments, virtual environments, Docker basics, technical documentation.
-
-### Mathimatics
-
-Applied mathematics, mathematical modeling, problem solving, algorithmic thinking, and tutoring mathematics with a focus on deep understanding rather than memorization.
+| Area | Technologies & Concepts |
+| --- | --- |
+| Backend Engineering | Python, Django, Django REST Framework, FastAPI, REST APIs, authentication, authorization, data modeling, service architecture |
+| Frontend Development | React, TypeScript, dashboards, user interfaces, web applications |
+| Databases | PostgreSQL, Vector Bases, data modeling |
+| AI & Machine Learning | PyTorch, TensorFlow, computer vision, segmentation models, YOLO experimentation, model training pipelines, evaluation metrics |
+| Geospatial Systems | QGIS, shapefiles, GeoJSON, raster/vector workflows, spatial data validation, environmental analytics |
+| Robotics & Autonomous Systems | ROS 2, NAV2, MAVLink, ArduPilot, Mission Planner, waypoint navigation, telemetry pipelines |
+| DevOps & Tooling | Git, GitHub, SSH, Linux, WSL, Windows development environments, virtual environments, Docker basics |
+| Mathematics | Applied mathematics, mathematical modeling, problem solving, algorithmic thinking, mathematics tutoring |
 
 ---
 
